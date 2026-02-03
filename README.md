@@ -39,10 +39,8 @@ Ideal for:
 ## 🧠 Key Technologies
 
 <div align="center">
-  <img src="https://github.com/virtboxtool/virtbox/blob/main/images/Windows-11-VirtualBox.webp" alt="VirtualBox" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> &nbsp;
 </div>
 
 - VirtualBox  
