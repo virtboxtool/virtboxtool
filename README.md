@@ -1,4 +1,4 @@
-<p align="center">
+<img width="516" height="209" alt="изображение" src="https://github.com/user-attachments/assets/48fa8a24-83fd-4ba5-bd90-73edd5cac54b" /><p align="center">
   <img src="https://raw.githubusercontent.com/virtboxtool/virtboxtool/refs/heads/main/images/background.svg" width="100%" />
 </p>
 
@@ -166,8 +166,9 @@ The same Windows installation can:
 ---
 </div>
 ## 🔥 Stats & Links
+![Uploading изображение.png…]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=onedark)](https://git.io/streak-stats)
 
 
 
