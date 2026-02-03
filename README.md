@@ -169,7 +169,7 @@ The same Windows installation can:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
