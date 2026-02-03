@@ -93,7 +93,7 @@ Ideal for:
 
 ## ⚠️ Windows Host and VM Simultaneously
 
-![Windows host and VM](PATH_TO_IMAGE)
+![Windows host and VM](https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/Windows-11-VirtualBox.webp)
 
 > Running the same Windows installation simultaneously on host & VM may corrupt the filesystem.
 
