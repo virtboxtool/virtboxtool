@@ -166,7 +166,7 @@ The same Windows installation can:
 ---
 </div>
 ## 🔥 Stats & Links
-![Uploading изображение.png…]()
+
 
 
 
