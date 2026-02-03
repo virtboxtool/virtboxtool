@@ -59,7 +59,7 @@ Ideal for:
 
 ## 💿 Raw Disk Access in VirtualBox
 
-![VirtualBox raw disk access diagram](https://github.com/virtboxtool/virtbox/blob/main/images/Windows-11-VirtualBox.webp)
+![VirtualBox raw disk access diagram](https://github.com/virtboxtool/virtboxtool/blob/main/images/Windows-11-VirtualBox.webp)
 
 **Raw Disk Access** enables a VM to use a **physical HDD/SSD directly** instead of a `.vdi` file.
 
@@ -74,7 +74,7 @@ Ideal for:
 
 ## 🧪 Ephemeral Mode & Child Image
 
-![VirtualBox ephemeral mode child image](https://github.com/virtboxtool/virtbox/blob/main/images/ViBox.PNG)
+![VirtualBox ephemeral mode child image](https://github.com/virtboxtool/virtboxtool/blob/main/images/ViBox.PNG)
 
 **Ephemeral Mode** creates a temporary child image:
 
