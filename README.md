@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/virtboxtool/virtboxtool/refs/heads/main/images/background.svg" width="100%" />
+</p>
 
 <h1 align="center">🔐 VirtualBox Raw Disk + Ephemeral Mode</h1>
 <p align="center">ViBox - Dual Boot, Sandbox & Anonymous Windows Execution</p>
@@ -164,7 +166,7 @@ The same Windows installation can:
 ---
 </div>
 ## 🔥 Stats & Links
-
+<img width="516" height="209" alt="изображение" src="https://github.com/user-attachments/assets/48fa8a24-83fd-4ba5-bd90-73edd5cac54b" />
 
 
 
