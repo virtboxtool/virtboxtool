@@ -168,7 +168,7 @@ The same Windows installation can:
 ## 🔥 Stats & Links
 ![Uploading изображение.png…]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=onedark)](https://git.io/streak-stats)
+
 
 
 
