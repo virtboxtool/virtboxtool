@@ -59,7 +59,7 @@ Ideal for:
 
 ## 💿 Raw Disk Access in VirtualBox
 
-![VirtualBox raw disk access diagram](https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/ViBoxHW.PNG)
+![VirtualBox raw disk access diagram](https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/ViBoxhw.PNG)
 
 
 **Raw Disk Access** enables a VM to use a **physical HDD/SSD directly** instead of a `.vdi` file.
