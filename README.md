@@ -75,7 +75,7 @@ Ideal for:
 
 ## 🧪 Ephemeral Mode & Child Image
 
-![VirtualBox ephemeral mode child image](https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/ViBox.PNG)
+![VirtualBox ephemeral mode child image]([https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/ViBox.PNG](https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/ViBoxEphermal.PNG))
 
 
 **Ephemeral Mode** creates a temporary child image:
