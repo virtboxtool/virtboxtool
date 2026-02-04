@@ -17,6 +17,7 @@
 
 ---
 
+📋 **[Release notes & changelog](https://github.com/virtboxtool/virtboxtool/releases)**
 ## 📌 Project Description
 
 This project demonstrates **advanced VirtualBox techniques** to run a **physically installed Windows system** as a **secure, disposable sandbox** using:
