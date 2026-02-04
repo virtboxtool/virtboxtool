@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/virtboxtool/virtboxtool/main/images/Computer%20Code%20GIF%20-%20Computer%20Code%20Decrypting%20-%20Discover%20&%20Share%20GIFs.gif" width="120"/>
 </p>
 
 [![Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)](https://github.com/your-github-username)
