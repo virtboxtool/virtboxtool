@@ -6,7 +6,7 @@
 <p align="center">ViBox - Dual Boot, Sandbox & Anonymous Windows Execution</p>
  
 
-
+⬇️ [**Download now (vibox.msi)**](https://github.com/virtboxtool/virtboxtool/releases/download/v.1.0.0.0/vibox.msi)
 
 
 <p align="center">
